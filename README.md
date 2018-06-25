@@ -1,5 +1,8 @@
 # Getter and Setter Generator
-### Extension for Visual Studio Code 
+
+**This fork modifies the extension for PHP getters and setters.**
+
+### Extension for Visual Studio Code
 This extension generate get and set methods from the class variable declarations.
 
 ## Usage
